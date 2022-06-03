@@ -12,7 +12,7 @@ Plan your day.
 
 ## Website
 
-https://ryanraposo.github.io/code-quiz
+https://ryanraposo.github.io/work-day-scheduler
 
 ## Contribution
 
