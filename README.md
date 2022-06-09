@@ -14,6 +14,11 @@ Plan your day.
 
 https://ryanraposo.github.io/work-day-scheduler
 
+## Screenshot
+
+![Work Day Scheduler](./assets/img/ss-1.png)
+
+
 ## Contribution
 
 Made with 💖 by Ryan Raposo
