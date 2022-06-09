@@ -16,7 +16,7 @@ https://ryanraposo.github.io/work-day-scheduler
 
 ## Screenshot
 
-![Work Day Scheduler](./assets/img/ss-1.png)
+![Work Day Scheduler](./assets/img/ss-2.png)
 
 
 ## Contribution
