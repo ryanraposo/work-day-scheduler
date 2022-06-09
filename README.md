@@ -17,3 +17,5 @@ https://ryanraposo.github.io/work-day-scheduler
 ## Contribution
 
 Made with 💖 by Ryan Raposo
+
+Thank you Adam 🧙‍♂️
