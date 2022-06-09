@@ -30,6 +30,11 @@ function loadSchedule() {
     };
 }
 
+function displayCurrentDay() {
+    const currentDayText = $("#currentDay");
+    currentDayText.text(moment().format("dddd, MMMM Do YYYY"));
+} 
+
 $(document).on({
     'click': function () {
         const text = $(this).text().trim();
@@ -65,6 +70,7 @@ $(document).on({
 }}, '.saveBtn');
 
 window.onload = () => {
+    displayCurrentDay();
     updateTimeBlockColors();
     loadSchedule();
 };
